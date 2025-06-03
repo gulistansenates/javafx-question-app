@@ -4,11 +4,11 @@ This is a simple JavaFX-based quiz application that displays multiple-choice que
 
 ## ✨ Features
 
-- 🧠 Multiple-choice quiz functionality
-- ⏳ Countdown timer (10 seconds per question)
-- 🌈 Smooth fade transitions between questions
-- 📄 Loads questions from a text file
-- 🖱️ Interactive UI with FXML and JavaFX
+- Multiple-choice quiz functionality
+- Countdown timer (10 seconds per question)
+- Smooth fade transitions between questions
+- Loads questions from a text file
+- Interactive UI with FXML and JavaFX
 
 ## 🚀 How to Run
 
