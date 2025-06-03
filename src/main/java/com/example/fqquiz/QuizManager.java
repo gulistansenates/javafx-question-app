@@ -16,11 +16,11 @@ public class QuizManager {
                 String questionText = line;
                 String[] options = new String[4];
                 for (int i = 0; i < 4; i++) {
-                    options[i] = reader.readLine().substring(3); // remove A) B) etc
+                    options[i] = reader.readLine().substring(3);
                 }
                 char correct = reader.readLine().trim().charAt(0);
                 questions.add(new Question(questionText, options, correct));
-                reader.readLine(); // blank line
+                reader.readLine();
             }
         } catch (Exception e) {
             System.err.println("Error loading questions: " + e.getMessage());
