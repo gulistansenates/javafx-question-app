@@ -10,6 +10,10 @@ This is a simple JavaFX-based quiz application that displays multiple-choice que
 - Loads questions from a text file
 - Interactive UI with FXML and JavaFX
 
+## 🖼️ Screenshots
+
+<img src="images/sc1.png" alt="Ana Ekran" width="350"/> <img src="images/sc2.png" alt="Ana Ekran" width="350"/>
+
 ## 🚀 How to Run
 
 1. Make sure you have JDK 17+ and JavaFX SDK installed.
