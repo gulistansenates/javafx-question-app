@@ -1,4 +1,4 @@
-# JavaFX Quiz Application
+# ❓ JavaFX Quiz Application
 
 This is a simple JavaFX-based quiz application that displays multiple-choice questions with the following features:
 
