@@ -12,7 +12,7 @@ This is a simple JavaFX-based quiz application that displays multiple-choice que
 
 ## 🖼️ Screenshots
 
-<img src="images/sc1.png" alt="Ana Ekran" width="350"/> <img src="images/sc2.png" alt="Ana Ekran" width="350"/>
+<img src="images/sc1.png" alt="Ana Ekran" width="350"/> <img src="images/sc2.png" alt="Ana Ekran" width="320"/>
 
 ## 🚀 How to Run
 
